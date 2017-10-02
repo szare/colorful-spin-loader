@@ -1,6 +1,6 @@
 {
   "name": "colorful-spin-loader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "author": "Salman Zare <zare1356@gmail.com>",
   "license": "MIT",
